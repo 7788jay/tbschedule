@@ -1,0 +1,56 @@
+#######开放模式############
+
+###############
+#    folder   #
+###############
+/build/
+/classes/
+
+
+###############
+#  fixed file #
+###############
+*.exe
+*.txt
+*.def
+*.dsp
+*.lib
+*.dll
+*.lnt
+*.pm
+*.xls
+*.dbg
+*.DBG
+*.o
+*.plg
+*.keep
+
+
+###############
+#  temp file  #
+###############
+~*
+*.log
+*.cmm
+*.men
+*.ini
+*.fig
+*.cmp
+*.tmp
+
+###############
+#    script   #
+###############
+*.bat
+
+
+##eclipse###
+/bin/
+.project
+/.setting/
+.classpath
+
+
+##idea##
+/.idea/
+*.iml
